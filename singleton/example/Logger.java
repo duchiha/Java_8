@@ -1,4 +1,3 @@
-package com.chapter2.singleton.example;
 
 public class Logger {
 	// declare the constructor private to prevent clients
