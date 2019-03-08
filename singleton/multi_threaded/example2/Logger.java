@@ -1,4 +1,3 @@
-package com.chapter2.singleton.multi_threaded.example2;
 
 public class Logger {
 	private Logger() {
