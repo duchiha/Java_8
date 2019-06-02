@@ -1,4 +1,3 @@
-package com.chapter5.predicate_Interface.examples;
 
 import java.util.stream.Stream;
 
