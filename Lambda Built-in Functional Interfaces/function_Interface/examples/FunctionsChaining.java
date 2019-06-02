@@ -1,4 +1,3 @@
-package com.chapter5.function_Interface.examples;
 
 import java.util.Arrays;
 import java.util.function.Function;
