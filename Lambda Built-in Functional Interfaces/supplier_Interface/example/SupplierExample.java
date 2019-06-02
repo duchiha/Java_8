@@ -1,4 +1,3 @@
-package com.chapter5.supplier_Interface.example;
 
 import java.util.stream.Stream;
 import java.util.Random;
