@@ -1,4 +1,3 @@
-package com.chapter5.consumer_Interface.examples;
 
 import java.util.function.Consumer;
 
@@ -11,6 +10,4 @@ public class UpperCaseConverter {
 		
 	}
 	
-	
-
 }
