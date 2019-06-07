@@ -1,4 +1,3 @@
-package com.chapter11.concurrent_collections.examples;
 
 import java.util.ArrayList;
 import java.util.Iterator;
