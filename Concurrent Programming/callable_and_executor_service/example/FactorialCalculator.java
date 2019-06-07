@@ -1,4 +1,3 @@
-package com.chapter11.callable_and_executor_service.example;
 
 import java.util.concurrent.Callable;
 import java.util.concurrent.ExecutorService;
