@@ -1,4 +1,3 @@
-package com.chapter11.parallel_streams.example;
 
 import java.util.Arrays;
 import java.util.Optional;
