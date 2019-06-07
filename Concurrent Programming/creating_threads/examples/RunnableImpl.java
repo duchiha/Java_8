@@ -1,6 +1,3 @@
-package com.chapter11.creating_threads.examples;
-
-
 
 //Java lets you create a thread one of two ways:
 //By implementing the Runnableinterface.
