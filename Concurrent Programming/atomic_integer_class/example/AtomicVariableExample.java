@@ -1,4 +1,3 @@
-package com.chapter11.atomic_integer_class.example;
 
 import java.util.concurrent.atomic.AtomicInteger;
 
