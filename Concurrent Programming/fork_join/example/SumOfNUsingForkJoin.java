@@ -1,4 +1,3 @@
-package com.chapter11.fork_join.example;
 
 import java.util.concurrent.RecursiveTask;
 import java.util.concurrent.ForkJoinPool;
