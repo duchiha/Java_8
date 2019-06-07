@@ -1,4 +1,3 @@
-package com.chapter11.race_conditions.example;
 
 // This class exposes a publicly accessible counter 
 // to help demonstrate race condition problem
